@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\projects\githubrepo1\projectargon\projectargon\main.cpp(8): warning C4930: 'InputManager inputManager(void)': prototyped function not called (was a variable definition intended?)
+  ProjectArgon.vcxproj -> E:\Projects\GitHubRepo1\ProjectArgon\Debug\ProjectArgon.exe
+  ProjectArgon.vcxproj -> E:\Projects\GitHubRepo1\ProjectArgon\Debug\ProjectArgon.pdb (Partial PDB)

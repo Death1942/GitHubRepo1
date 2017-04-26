@@ -1,12 +1,12 @@
-// ProjectEmerald.cpp : Defines the entry point for the console application.
-//
-
-#include "stdafx.h"
 #include "SFML\Graphics.hpp"
+#include "InputManager.h"
+
 
 
 int main()
 {
+	InputManager inputManager();
+
 	sf::RenderWindow window(sf::VideoMode(200, 200), "Test");
 	sf::CircleShape shape(100.0f);
 	shape.setFillColor(sf::Color::Green);
